@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:50:30.264049
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:32
 #+TITLE: 無異元來禪師廣錄
 #+PROPERTY: CBETA_ID X72n1435
 #+PROPERTY: ID KR6q0365
